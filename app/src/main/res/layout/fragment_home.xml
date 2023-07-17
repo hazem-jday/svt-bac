@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    tools:context=".HomeFragment">
+    >
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:alpha="0.9"
+                app:cardBackgroundColor="@color/chp_item"
+                android:theme="@style/Theme.MaterialComponents.DayNight"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="2dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:adjustViewBounds="true"
+                    android:cropToPadding="true"
+                    android:layout_gravity="center"
+                    android:src="@drawable/logo" />
+            </com.google.android.material.card.MaterialCardView>
+
+            <com.google.android.material.card.MaterialCardView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="20dp"
+                android:theme="@style/Theme.MaterialComponents.DayNight"
+                app:cardBackgroundColor="@color/chp_item"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="2dp">
+                <TextView
+                    android:text="Accueil"
+                    android:textSize="30sp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_width="match_parent"/>
+            </com.google.android.material.card.MaterialCardView>
+
+
+
+            <include layout="@layout/chp_homme" />
+            <include layout="@layout/chp_femme" />
+            <include layout="@layout/chp_proc" />
+            <include layout="@layout/chp_brassage" />
+            <include layout="@layout/chp_gen_hum" />
+
+            <include layout="@layout/chp_tissu" />
+            <include layout="@layout/chp_reflexe" />
+            <include layout="@layout/chp_muscle" />
+            <include layout="@layout/chp_pression" />
+            <include layout="@layout/chp_hygiene" />
+            <include layout="@layout/chp_soi" />
+            <include layout="@layout/chp_reponse" />
+            <include layout="@layout/chp_dysfonc" />
+
+
+
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

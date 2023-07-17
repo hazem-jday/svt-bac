@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="SVTBac" parent="Theme.AppCompat.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/pale_lavender</item>
+        <item name="colorPrimaryVariant">@color/papaya_whip</item>
+        <item name="colorOnPrimary">@color/alice_blue</item>
+        <!-- Secondary brand color. -->
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/deep_violet</item>
+        <!-- Customize your theme here. -->
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:textColor">@color/deep_violet</item>
+
+    </style>
+
+    <style name="SVTBac.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>

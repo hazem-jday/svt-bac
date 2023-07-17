@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">@color/caribbean_green</color>
+    <color name="colorPrimaryDark">@color/cyan_cornflower_blue</color>
+    <color name="colorAccent">@color/catalina_blue</color>
+
+    <color name="deep_violet">#050A30</color>
+    <color name="catalina_blue">#00448D</color>
+    <color name="cyan_cornflower_blue">#1C82AD</color>
+    <color name="caribbean_green">#03C988</color>
+
+    <color name="alice_blue">#ECF2FF</color>
+    <color name="lavender">#E3DFFD</color>
+    <color name="pale_lavender">#E5D1FA</color>
+    <color name="papaya_whip">#FFF4D2</color>
+
+    <color name="background">@color/deep_violet</color>
+
+    <color name="correction">@color/caribbean_green</color>
+    <color name="quitter">#f0541e</color>
+
+    <color name="logo_bg">@color/catalina_blue</color>
+
+    <color name="texts">@color/papaya_whip</color>
+
+    <color name="quizz_header">@color/cyan_cornflower_blue</color>
+    <color name="quizz_question">@color/catalina_blue</color>
+    <color name="quizz_item">@color/cyan_cornflower_blue</color>
+    <color name="quizz_item_checked">@color/caribbean_green</color>
+
+    <color name="chp_item">@color/catalina_blue</color>
+
+    <color name="navItemUnchecked">@color/cyan_cornflower_blue</color>
+    <color name="navItemChecked">@color/papaya_whip</color>
+    <color name="navigation_bg">@color/deep_violet</color>
+    <color name="bottomNavigationTintColor">@color/caribbean_green</color>
+
+    <color name="confirm_button_bg">@color/cyan_cornflower_blue</color>
+    <color name="confirm_button_bg_pressed">@color/caribbean_green</color>
+    <color name="confirm_button_bg_focused">@color/caribbean_green</color>
+</resources>

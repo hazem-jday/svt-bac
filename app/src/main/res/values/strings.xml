@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">SVT Bac</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="thm_genetique">Génétique</string>
+    <string name="chp_brassage">Brassage</string>
+    <string name="icon_brass_desc">Icôn brassage</string>
+    <string name="chp_dysfonc">Dysfonctionnement</string>
+    <string name="icon_dysfonc_desc">Icône dysfonctionnement du système nerveux</string>
+    <string name="chp_femme">Femme</string>
+    <string name="thm_reproduction">Reproduction humaine</string>
+    <string name="icon_femme_desc">Icône femme</string>
+    <string name="icon_homme_desc">Icône homme</string>
+    <string name="chp_homme">Homme</string>
+    <string name="thm_immunite">Immunité</string>
+    <string name="icon_gen_dip_desc">Icône génétique des diploides</string>
+    <string name="chp_gen_hum">Génétique humaine</string>
+    <string name="icon_gen_hum_desc">Icône génétique humaine</string>
+    <string name="chp_hygiene">Hygiène</string>
+    <string name="thm_neuro">Neurophysiologie</string>
+    <string name="icon_hygiene_desc">Icône hygiène</string>
+    <string name="chp_muscle">Muscle squeletique</string>
+    <string name="icon_muscle_desc">Icône muscle squeletique</string>
+    <string name="chp_pression">Pression arterielle</string>
+    <string name="icon_pression_desc">Icône pression arterielle</string>
+    <string name="chp_proc">Procréation</string>
+    <string name="icon_proc_desc">Icône procréation</string>
+    <string name="chp_reflexe">Reflexe myotatique</string>
+    <string name="icon_reflexe_desc">Icône reflexe myotatique</string>
+    <string name="chp_reponse">Réponse immunitaire</string>
+    <string name="icon_reponse_desc">Icône réponse immunitaire</string>
+    <string name="chp_soi">Le soi et le non soi</string>
+    <string name="icon_soi_desc">Icône soi et non soi</string>
+    <string name="chp_tissu">Tissus nerveux</string>
+    <string name="icon_tissus_desc">Icône tissus nerveux</string>
+    <string name="email">hazemjday@gmail.com</string>
+    <string name="side_bar_desc">Logo side bar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

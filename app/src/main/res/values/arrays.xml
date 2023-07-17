@@ -1,0 +1,2277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="brassage">
+        <item>@array/brassage01</item>
+        <item>@array/brassage02</item>
+        <item>@array/brassage03</item>
+        <item>@array/brassage04</item>
+        <item>@array/brassage05</item>
+        <item>@array/brassage06</item>
+        <item>@array/brassage07</item>
+        <item>@array/brassage08</item>
+        <item>@array/brassage09</item>
+        <item>@array/brassage10</item>
+        <item>@array/brassage11</item>
+    </string-array>
+    <string-array name="brassage01">
+        <item>Le crossing-over est un échange entre :</item>
+        <item>les deux chromatides d\'un chromosome dédoublé</item>
+        <item>les chromosomes de deux paires chromosomiques différentes</item>
+        <item>deux chromosomes homologues non dédoublés</item>
+        <item>deux chromatides de deux chromosomes homologues</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="brassage02">
+        <item>Le brassage interchromosomique :</item>
+        <item>n\'a lieu que dans des cellules diploïdes</item>
+        <item>a lieu lors de la prophase I de la méiose</item>
+        <item>permet d\'obtenir des cellules haploïdes génétiquement différentes</item>
+        <item>correspond à la disjonction aléatoire des chromatides</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="brassage03">
+        <item>Les allèles d\'un gène :</item>
+        <item>occupent toujours le même locus sur un chromosome donné</item>
+        <item>sont au nombre de deux dans le génotype d\'une cellule haploïde</item>
+        <item>se trouvent toujours dans la même cellule</item>
+        <item>peuvent changer de chromosome au cours de la méiose</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="brassage04">
+        <item>Le brassage intrachromosomique :</item>
+        <item>permet de séparer deux gènes liés</item>
+        <item>se produit au cours de l\'anaphase équationnelle</item>
+        <item>résulte des crossing-over</item>
+        <item>diminue la diversité des gamètes</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="brassage05">
+        <item>Le brassage intrachromosomique peut se produire dans :</item>
+        <item>le spermatocyte I</item>
+        <item>l\'ovocyte II</item>
+        <item>le spermatocyte II</item>
+        <item>l\'ovocyte I</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="brassage06">
+        <item>Avec 2n=8 chromosomes, on obtient, grâce au brassage interchromosomique :</item>
+        <item>16 types de gamètes parentaux</item>
+        <item>2 types de gamètes parentaux</item>
+        <item>4 types de gamètes parentaux</item>
+        <item>8 types de gamètes parentaux</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="brassage07">
+        <item>Dans le cas d\'une cellule germinale à 2n = 46 chromosomes, le nombre de types de gamètes obtenus par brassage interchromosomique est :</item>
+        <item>2^46</item>
+        <item>2^23</item>
+        <item>23^2</item>
+        <item>46^2</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="brassage08">
+        <item>La reproduction sexuée :</item>
+        <item>Est la seule modalité de reproduction chez les êtres vivants</item>
+        <item>Aboutit à la formation d\'individus tous semblables</item>
+        <item>Est une source de diversité</item>
+        <item>n\'existe que chez les animaux</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="brassage09">
+        <item>Le crossing-over :</item>
+        <item>se produit en anaphase I</item>
+        <item>se produit en anaphase II</item>
+        <item>se fait entre deux chromatides soeurs</item>
+        <item>se fait entre deux chromatides non-soeurs</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="brassage10">
+        <item>La séparation aléatoire des chromosomes homologues lors de la méiose :</item>
+        <item>se produit dans l\'ovocyte II</item>
+        <item>se produit dans le spermatocyte I</item>
+        <item>est à l\'origine d\'un brassage intrachromosomique</item>
+        <item>est à l\'origine d\'un brassage interchromosomique</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="brassage11">
+        <item>le brassage interchromosomique :</item>
+        <item>se produit au cours de l\'anaphase I de la méiose</item>
+        <item>se produit au cours de la prophase I de la méiose</item>
+        <item>résulte du phénomène du crossing-over</item>
+        <item>résulte de la séparation aléatoire des chromosomes homologues</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="brassage12">
+        <item>:</item>
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </string-array>
+    <string-array name="dysfonc">
+        <item>@array/dysfonc01</item>
+        <item>@array/dysfonc02</item>
+        <item>@array/dysfonc03</item>
+        <item>@array/dysfonc04</item>
+        <item>@array/dysfonc05</item>
+        <item>@array/dysfonc06</item>
+        <item>@array/dysfonc07</item>
+        <item>@array/dysfonc08</item>
+    </string-array>
+    <string-array name="dysfonc01">
+        <item>Rlevez les phrases correctes :</item>
+        <item>les cellules ayant des CD4 sont des cellules cibles du VIH</item>
+        <item>les seules cellules cibles du VIH sont les lymphocytes T4 car se sont les seules qui possèdent des CD4</item>
+        <item>un individu qui possède des récepteurs membranaires CD4 est séropositif</item>
+        <item>les récepteurs CD4 sont des protéines membranaires</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="dysfonc02">
+        <item>Le VIH :</item>
+        <item>est un virus extracellulaire</item>
+        <item>injecte son ADN dans la cellule cible</item>
+        <item>est un rétrovirus</item>
+        <item>disparaît totalement sous l\'action des anticorps</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="dysfonc03">
+        <item>le VIH introduit dans le cytoplasme de la cellule cible :</item>
+        <item>son ADN est accompagné d\'une ligase</item>
+        <item>son ARN est accompagné d\'une transcriptase inverse</item>
+        <item>son ARN est accompagné d\'une polymérase</item>
+        <item>son ADN est accompagné d\'une enzyme de restriction</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="dysfonc04">
+        <item>la réaction allergique fait intervenir :</item>
+        <item>les mastocytes</item>
+        <item>les plasmocytes</item>
+        <item>les Lymphocytes T cytotoxiques (LTc)</item>
+        <item>des perforines</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="dysfonc05">
+        <item>dans le cas d\'une réaction allergique, il se produit une libération :</item>
+        <item>de perforine</item>
+        <item>d\'histamine</item>
+        <item>d\'acétylcholine</item>
+        <item>d\'immunoglobulines IgE</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="dysfonc06">
+        <item>un individu séropositif :</item>
+        <item>a dans le sang des anticorps spécifiques au VIH</item>
+        <item>n\'est pas porteur du VIH</item>
+        <item>a un groupe sanguin positif</item>
+        <item>son système immunitaire est capable d\'éliminer le VIH définitivement</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="dysfonc07">
+        <item>La formation de l\'ADN proviral du VIH nécessite :</item>
+        <item>Une ADN polymérase</item>
+        <item>Une ARN polymérase</item>
+        <item>Une transcriptase reverse</item>
+        <item>Une protéase</item>
+        <item>234</item>
+    </string-array>
+    <string-array name="dysfonc08">
+        <item>Parmi les cellules cibles du VIH on a :</item>
+        <item>Les macrophages</item>
+        <item>Les lymphocytes B</item>
+        <item>Les lymphocytes T LT8</item>
+        <item>Les lymphocytes T LT4</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="dysfonc09">
+        <item>:</item>
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </string-array>
+    <string-array name="evolution">
+        <item>@array/evolution01</item>
+        <item>@array/evolution02</item>
+        <item>@array/evolution03</item>
+        <item>@array/evolution04</item>
+        <item>@array/evolution05</item>
+        <item>@array/evolution06</item>
+        <item>@array/evolution07</item>
+        <item>@array/evolution08</item>
+        <item>@array/evolution09</item>
+        <item>@array/evolution10</item>
+        <item>@array/evolution11</item>
+        <item>@array/evolution12</item>
+        <item>@array/evolution13</item>
+        <item>@array/evolution14</item>
+        <item>@array/evolution15</item>
+    </string-array>
+    <string-array name="evolution01">
+        <item>Des organes homologues :</item>
+        <item>Ont toujours la même origine embryonnaire et évolutive</item>
+        <item>Peuvent avoir des fonctions différentes</item>
+        <item>Sont des organes identiques</item>
+        <item>N\'existent que chez les vertébrés</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="evolution02">
+        <item>Des organismes apparentés ayant un ancêtre commun récent à l\'échelle géologique :</item>
+        <item>Possèdent un plan d\'organisation différent</item>
+        <item>Présentent des états évolués identiques des mêmes caractères ancestraux</item>
+        <item>Possèdent des organes homologues</item>
+        <item>Possèdent des gènes homologues</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="evolution03">
+        <item>Des gènes homologues :</item>
+        <item>Dérivent d\'un gène ancestral</item>
+        <item>Sont complètement différents</item>
+        <item>Ont évolué en accumulant des mutations au hasard</item>
+        <item>Codent des protéines identiques</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="evolution04">
+        <item>Les insulines des divers mammifères n\'ont qu\'un petit nombre de différences dans leur séquence des acides aminés, ce qui signifie :</item>
+        <item>Que ces molécules jouent des rôles similaires</item>
+        <item>Que l\'insuline n\'a pas évolué</item>
+        <item>Que les divers mammifères sont apparentés</item>
+        <item>Qu\'elles sont codées par le même gène ancestral</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="evolution05">
+        <item>La reproduction sexuée :</item>
+        <item>Est la seule modalité de reproduction chez les êtres vivants</item>
+        <item>Aboutit à la formation d\'individus tous semblables</item>
+        <item>Est source de diversité</item>
+        <item>Contribue à l\'évolution des espèces</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="evolution06">
+        <item>Les mécanismes d\'évolution biologique sont :</item>
+        <item>La mutation et le crossing-over</item>
+        <item>La mutation et la sélection naturelle</item>
+        <item>La sélection naturelle et l\'adaptation</item>
+        <item>Le brassage intra et interchromosomique</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="evolution07">
+        <item>Les mutations géniques :</item>
+        <item>Assurent la stabilité des espèces</item>
+        <item>Participent à la diversification du monde vivant</item>
+        <item>Permettent l\'adaptation de certains organes à de nouvelles fonctions</item>
+        <item>N\'ont aucun effet sur les caractères contrôlés par les gènes mutés</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="evolution08">
+        <item>Un nouvel allèle :</item>
+        <item>Apporte toujours un avantage sélectif</item>
+        <item>Apporte toujours un désavantage sélectif</item>
+        <item>Peut être neutre</item>
+        <item>Constitue une innovation génétique</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="evolution09">
+        <item>La spéciation est :</item>
+        <item>L\'existence de plusieurs races de même espèce</item>
+        <item>L\'existence de plusieurs espèces d\'origines différentes</item>
+        <item>La diversification des espèces à partir d\'une forme ancestrale</item>
+        <item>L\'isolement géographique de populations</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="evolution10">
+        <item>L\'amplification génique :</item>
+        <item>Consiste à une fusion de certains chromosomes d\'une espèce</item>
+        <item>Consiste à la création de nouveaux gènes à partir de gènes préexistants</item>
+        <item>Touche le nombre de chromosomes</item>
+        <item>des gènes des poissons aurait conduire aux gènes des amphibiens</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="evolution11">
+        <item>Au cours de l\'évolution biologique :</item>
+        <item>chaque espèce conserve partiellement les caractères de l\'ancêtre commun</item>
+        <item>le nombre de chromosome de chaque espèce a diminué</item>
+        <item>la taille moyenne d\'un gène a augmenté</item>
+        <item>il y a complexification des structures et des fonctions</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="evolution12">
+        <item>La spéciation :</item>
+        <item>est l\'apparition de nouvelles espèces chaque fois qu\'il y a changements des conditions du milieu</item>
+        <item>est due à l\'apparition de nouveaux caractères morphologiques</item>
+        <item>se fait par mutation et sélections naturelle</item>
+        <item>est le résultat d\'un isolement reproductif</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="evolution13">
+        <item>Les organes homologues des espèces apparentées présentent :</item>
+        <item>la même forme</item>
+        <item>la même adaptation</item>
+        <item>le même plan d\'organisation</item>
+        <item>le même degré de complexification</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="evolution14">
+        <item>L\'amplification génique :</item>
+        <item>est une mutation génique</item>
+        <item>est une mutation chromosomique</item>
+        <item>fait augmenter le nombre de chromosomes</item>
+        <item>fait augmenter la taille de l\'information génétique</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="evolution15">
+        <item>la sélection naturelle :</item>
+        <item>fait augmenter la taille d\'un gène</item>
+        <item>est un mécanisme de l\'évolution biologique</item>
+        <item>favorise les êtres vivants à vivre dans un milieu donné</item>
+        <item>est à l\'origine des changements de la structure des gènes</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="femme">
+        <item>@array/femme01</item>
+        <item>@array/femme02</item>
+        <item>@array/femme03</item>
+        <item>@array/femme04</item>
+        <item>@array/femme05</item>
+        <item>@array/femme06</item>
+        <item>@array/femme07</item>
+        <item>@array/femme08</item>
+        <item>@array/femme09</item>
+        <item>@array/femme10</item>
+        <item>@array/femme11</item>
+        <item>@array/femme12</item>
+        <item>@array/femme13</item>
+        <item>@array/femme14</item>
+        <item>@array/femme15</item>
+        <item>@array/femme16</item>
+        <item>@array/femme17</item>
+        <item>@array/femme18</item>
+        <item>@array/femme19</item>
+        <item>@array/femme20</item>
+        <item>@array/femme20</item>
+        <item>@array/femme22</item>
+        <item>@array/femme23</item>
+        <item>@array/femme24</item>
+        <item>@array/femme25</item>
+        <item>@array/femme26</item>
+        <item>@array/femme27</item>
+        <item>@array/femme28</item>
+        <item>@array/femme29</item>
+        <item>@array/femme30</item>
+        <item>@array/femme31</item>
+        <item>@array/femme32</item>
+        <item>@array/femme33</item>
+        <item>@array/femme34</item>
+    </string-array>
+    <string-array name="femme01">
+        <item>Au cours d\'un cycle sexuel normal d\'une durée moyenne de 28 jours, l\'ovulation se produit</item>
+        <item>entre le 14ème et le 28ème jour</item>
+        <item>entre le 1er et le 5ème jour</item>
+        <item>entre le 1er et le 14ème jour</item>
+        <item>vers le 14ème jour</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="femme02">
+        <item>l\'ovogenèse se déroule</item>
+        <item>en partie dans les ovaires et en partie dans les trompes</item>
+        <item>depuis la vie foetale</item>
+        <item>d\'une façon continue</item>
+        <item>en totalité dans les ovaires</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="femme03">
+        <item>La folliculogenèse</item>
+        <item>se déroule en partie dans les ovaires et en partie dans les trompes</item>
+        <item>est l\'évolution des follicules</item>
+        <item>est l\'évolution des ovocytes</item>
+        <item>se déroule en totalité dans les ovaires</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="femme04">
+        <item>Le follicule mûr rompu expulse</item>
+        <item>un ovocyte I</item>
+        <item>un ovocyte II</item>
+        <item>un ovule</item>
+        <item>un zygote</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="femme05">
+        <item>Pendant la période d\'ovulation, la glaire cervicale</item>
+        <item>est filante et perméable</item>
+        <item>est dense et imperméable</item>
+        <item>présente une structure à mailles serrées</item>
+        <item>présente une structure à mailles lâches</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="femme06">
+        <item>L\'hormone hypophysaire, la LH</item>
+        <item>assure la croissance et la maturation des follicules</item>
+        <item>active la sécrétion des hormones sexuelles</item>
+        <item>assure le maintien du corps jaune</item>
+        <item>déclenche l\'ovulation</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="femme07">
+        <item>Une jeune femme a eu des règles successives vers le 3 Janvier et le 25 Janvier. La durée de son cycle sexuel est de:</item>
+        <item>28 jours</item>
+        <item>25 jours</item>
+        <item>22 jours</item>
+        <item>20 jours</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="femme08">
+        <item>Le cycle ovarien est bloqué en cas</item>
+        <item>D\'une ablation de l\'utérus</item>
+        <item>D\'une prise des pilules combinées</item>
+        <item>De la ménopause</item>
+        <item>De grossesse</item>
+        <item>234</item>
+    </string-array>
+    <string-array name="femme09">
+        <item>L\'atrésie folliculaire est le résultat d\'une baisse du taux de</item>
+        <item>FSH</item>
+        <item>LH</item>
+        <item>GnRH</item>
+        <item>Oestrogènes</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="femme10">
+        <item>Au début d\'une grossesse, l\'absence des règles chez une femme est expliquée par</item>
+        <item>La chute des hormones sexuelles</item>
+        <item>Le maintien d\'une sécrétion élevée des hormones sexuelles</item>
+        <item>La destruction de l\'endomètre</item>
+        <item>La sécrétion de la HCG</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="femme11">
+        <item>La division réductionnelle de l\'ovogenèse s\'achève</item>
+        <item>Dans les trompes</item>
+        <item>Dans les ovaires</item>
+        <item>Après d\'ovulation</item>
+        <item>Avant d\'ovulation</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="femme12">
+        <item>La garniture chromosomique du 2ème globule polaire est identique à celle</item>
+        <item>D\'un 1er globule polaire</item>
+        <item>D\'un pronucléus mâle</item>
+        <item>D\'ovocyte II</item>
+        <item>D\'un spermatide</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="femme13">
+        <item>Chez une femme ayant des cycles de 25 jours, on trouve dans son ovaire</item>
+        <item>des follicules primordiaux, primaires, secondaires et un follicule rompu</item>
+        <item>des follicules primordiaux, primaires, secondaires et un jeune corps jaune</item>
+        <item>des follicules primaires, secondaires, tertiaires et un follicule mûr</item>
+        <item>des follicules primordiaux, primaires, secondaires et un follicule mûr</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="femme14">
+        <item>La folliculogenèse est:</item>
+        <item>la transformation d\'une ovogonie en un ovocyte I</item>
+        <item>la transformation d\'une ovogonie en un ovocyte II bloqué en métaphase II</item>
+        <item>l\'évolution d\'un follicule primordial en follicule mûr</item>
+        <item>commencée à partir de la vie foetale</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="femme15">
+        <item>Le follicule secondaire :</item>
+        <item>se caractérise par un ovocyte II entouré de plusieurs couches de cellules folliculaires</item>
+        <item>est marqué par l\'apparition desthèques</item>
+        <item>se caractérise par l\'apparition des cavités</item>
+        <item>se caractérise par la formation de la zone pellucide</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="femme16">
+        <item>Le gamète femelle et le gamète mâle sont</item>
+        <item>de même taille</item>
+        <item>produits d\'une façon continue depuis la puberté</item>
+        <item>haploïde</item>
+        <item>mobiles</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="femme17">
+        <item>Chez l\'espèce humaine, parmi les points communs entre l\'œstradiol et la testostérone, il y a :</item>
+        <item>les deux sont sécrétés d\'une façon continue à partir de la puberté</item>
+        <item>les deux provoquent l\'apparition des caractères sexuels secondaires à la puberté</item>
+        <item>les deux agissent, par rétrocontrôle positif, sur le complexe hypothalamo-hypophysaire</item>
+        <item>les deux agissent, par rétrocontrôle négatif, sur le complexe hypothalamo-hypophysaire</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="femme18">
+        <item>Parmi les points communs entre un follicule mûr et un corps jaune, il y a :</item>
+        <item>les deux sécrètent les oestrogènes</item>
+        <item>les deux sécrètent la progestérone</item>
+        <item>les deux agissent, par l\'intermédiaire de leurs hormones, sur la muqueuse utérine</item>
+        <item>les deux agissent, par l\'intermédiaire de leurs hormones, sur la croissance des ovocytes</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="femme19">
+        <item>La menstruation est la conséquence de :</item>
+        <item>la fécondation</item>
+        <item>l\'ovulation</item>
+        <item>la chute du taux des hormones ovariennes</item>
+        <item>la formation du corps jaune</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="femme20">
+        <item>Les effets directs de l\'hormone lutéinisante (LH) chez la femme sont :</item>
+        <item>l\'ovulation</item>
+        <item>la croissance de l\'endomètre</item>
+        <item>la stimulation de la croissance folliculaire</item>
+        <item>la transformation du follicule rompu en corps jaune</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="femme21">
+        <item>Le premier globule polaire est :</item>
+        <item>diploïde et chaque chromosome comporte deux chromatides</item>
+        <item>haploïde et chaque chromosome comporte une seule chromatide</item>
+        <item>haploïde et chaque chromosome comporte deux chromatides</item>
+        <item>issu de l\'ovocyte suite à une division équationnelle</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="femme22">
+        <item>Parmi les points communs à la spermatogenèse et l\'ovogenèse c\'est qu\'elles :</item>
+        <item>commencent à partir de la puberté</item>
+        <item>aboutissent à la formation des cellules haploïdes</item>
+        <item>se déroulent entièrement dans les gonades</item>
+        <item>possèdent une phase de multiplication</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="femme23">
+        <item>L\'injection d\'une faible dose d\'œstradiol à une guenon pubère ovariectomisée entraîne :</item>
+        <item>une chute du taux de LH</item>
+        <item>un pic de FSH</item>
+        <item>une augmentation du taux de GnRH</item>
+        <item>un freinage du fonctionnement du complexe hypothalamo-hypophysaire</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="femme24">
+        <item>chez la femme, l\'ovulation :</item>
+        <item>est la rupture du follicule mûr et expulsion de l\'ovocyte I</item>
+        <item>est déclenchée suite à une chute du taux de LH</item>
+        <item>est déclenchée suite à une chute du taux de FSH</item>
+        <item>se produit en général, 14 jours avant l\'apparition de la menstruation</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="femme25">
+        <item>L\'apparition du deuxième globule polaire montre :</item>
+        <item>l\'évolution de l\'ovocyte I en ovocyte II</item>
+        <item>l\'achèvement de la division réductionnelle et le début de la division équationnelle</item>
+        <item>une fécondation</item>
+        <item>l\'achèvement de la division équationnelle</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="femme26">
+        <item>Le silence utérin constaté au cours d\'un cycle sexuel chez une femme correspond à :</item>
+        <item>une diminution du taux des œstrogènes</item>
+        <item>une augmentation du taux des œstrogènes</item>
+        <item>une augmentation du taux de la progestérone</item>
+        <item>une diminution du taux de la progestérone</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="femme27">
+        <item>Chez la femme, l\'ovulation se produit suite à une :</item>
+        <item>élévation du taux plasmatique d\'oestradiol</item>
+        <item>diminution du taux plasmatique des hormones ovariennes</item>
+        <item>forte augmentation du taux plasmatique de FSH et de LH</item>
+        <item>baisse du taux plasmatique de FSH</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="femme28">
+        <item>La HCG (l\'hormone gonadotrophique chorionique):</item>
+        <item>est sécrétée par le trophoblaste</item>
+        <item>est sécrétée par l\'hypophyse</item>
+        <item>a une action stimulatrice sur le corps jaune</item>
+        <item>provoque la régression du corps jaune</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="femme29">
+        <item>Au cours de la fécondation chez la femme, il se produit :</item>
+        <item>une reprise de la division réductionnelle de la méiose</item>
+        <item>une division du premier globule polaire</item>
+        <item>une émission du deuxième globule polaire</item>
+        <item>un rétablissement de la diploïdie</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="femme30">
+        <item>Chez la femme, suite a la fécondation, il se produit :</item>
+        <item>une chute du taux des hormones ovariennes</item>
+        <item>une suspension du cycle sexuel</item>
+        <item>une augmentation du taux de FSH et de LH</item>
+        <item>une diminution du taux de GnRH</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="femme31">
+        <item>La GnRH ou gonadolibérine :</item>
+        <item>est sécrétée par les cellules de l\'hypophyse antérieure</item>
+        <item>est sécrétée de manière pulsatile</item>
+        <item>commande la sécrétion des gonadostimulines FSH et LH</item>
+        <item>a des récepteurs au niveau de la muqueuse utérine</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="femme32">
+        <item>L\'ovocyte II et le premier globule polaire ont en commun :</item>
+        <item>les 2 cellules comportent n chromosomes</item>
+        <item>les 2 cellules comportent 2n chromosomes</item>
+        <item>les 2 cellules sont issues de la division réductionnelle</item>
+        <item>les 2 cellules sont issues de la division équationnelle</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="femme33">
+        <item>La phase postovulatoire (ou phase lutéinique ou lutéale) d\'un cycle sexuel normal chez la femme est caractérisée par :</item>
+        <item>le développement du corps jaune</item>
+        <item>la maturation d\'un follicule mûr</item>
+        <item>une production abondante de l\'hormone folliculostimulante (FSH)</item>
+        <item>une production abondante de progestérone</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="femme34">
+        <item>Le développement maximal de l\'endométre (muqueuse utérine) est observé au cours de la phase :</item>
+        <item>ovulatoire</item>
+        <item>menstruelle</item>
+        <item>prémenstruelle</item>
+        <item>postmenstruelle</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="homme">
+        <item>@array/homme01</item>
+        <item>@array/homme02</item>
+        <item>@array/homme03</item>
+        <item>@array/homme04</item>
+        <item>@array/homme05</item>
+        <item>@array/homme06</item>
+        <item>@array/homme07</item>
+        <item>@array/homme08</item>
+        <item>@array/homme09</item>
+        <item>@array/homme10</item>
+        <item>@array/homme11</item>
+        <item>@array/homme12</item>
+        <item>@array/homme13</item>
+        <item>@array/homme14</item>
+        <item>@array/homme15</item>
+        <item>@array/homme16</item>
+        <item>@array/homme17</item>
+        <item>@array/homme18</item>
+        <item>@array/homme19</item>
+        <item>@array/homme20</item>
+        <item>@array/homme20</item>
+        <item>@array/homme22</item>
+        <item>@array/homme23</item>
+        <item>@array/homme24</item>
+        <item>@array/homme25</item>
+        <item>@array/homme26</item>
+        <item>@array/homme27</item>
+        <item>@array/homme28</item>
+        <item>@array/homme29</item>
+        <item>@array/homme30</item>
+        <item>@array/homme31</item>
+        <item>@array/homme32</item>
+        <item>@array/homme33</item>
+        <item>@array/homme34</item>
+    </string-array>
+    <string-array name="homme01">
+        <item>la testostérone est sécrétée par</item>
+        <item>les cellules de Leydig</item>
+        <item>l\'hypophyse 12</item>
+        <item>l\'hypothalamus 13</item>
+        <item>les cellules de Sertoli</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="homme02">
+        <item>La castration d\'un rat pubère entraîne:</item>
+        <item>l\'augmentation de la sécrétion des gonadostimulines</item>
+        <item>l\'atrophie des caractères sexuels</item>
+        <item>la diminution de la sécrétion des gonadostimulines</item>
+        <item>l\'atrophie de l\'hypophyse</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="homme03">
+        <item>A la fin de la phase de maturation de la spermatogenèse on obtient:</item>
+        <item>des cellules immobiles et haploïdes à n chromosomes simples</item>
+        <item>des cellules immobiles et haploïdes à n chromosomes dupliqués</item>
+        <item>des cellules mobiles et haploïdes à n chromosomes dupliqués</item>
+        <item>des cellules mobiles et haploïdes à n chromosomes simples</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="homme04">
+        <item>Les spermatozoïdes humains</item>
+        <item>Deviennent fécondants dans les voies génitales femelles</item>
+        <item>Terminent leur méiose dans l\'épididyme</item>
+        <item>Deviennent fécondants dans l\'épididyme</item>
+        <item>Sont fécondants dès leur émission</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="homme05">
+        <item>La GnRH est sécrétée</item>
+        <item>D\'une façon constante</item>
+        <item>Dans les vaisseaux sanguins reliant l\'hypothalamus à l\'hypophyse</item>
+        <item>Dans La circulation sanguine générale</item>
+        <item>D\'une façon pulsatile</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="homme06">
+        <item>Les caractères sexuels primaires :</item>
+        <item>Apparaissent à partir de la puberté</item>
+        <item>Apparaissent dès la vie foetale</item>
+        <item>Sont les organes génitaux externes</item>
+        <item>Le développement des testicules est un caractère sexuel primaire</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="homme07">
+        <item>Chez l\'homme, la spermatogenese est stimulee directement par :</item>
+        <item>LH</item>
+        <item>FSH</item>
+        <item>la testosterone associee a l\'ABP (proteine de liaison)</item>
+        <item>l\'inhibine</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="homme08">
+        <item>Parmi les cellules suivantes, celles qui sont haploides (a n chromosomes) sont les :</item>
+        <item>spermatogonies</item>
+        <item>spermatocytesl</item>
+        <item>spermatocytesll</item>
+        <item>spermatozoides</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="homme09">
+        <item>Un rat ayant subi la lésion de son hypothalamus, reçoit, en perfusion continue, du sérum contenant des extraits hypothalamiques. On constatera :</item>
+        <item>l\'hypertrophie de l\'hypophyse</item>
+        <item>aucune réponse de l\'hypophyse</item>
+        <item>la réactivation de l\'hypophyse</item>
+        <item>la réduction de l\'activité de l\'hypophyse</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="homme10">
+        <item>La testostérone :</item>
+        <item>est sécrétée par les cellules de Sertoli</item>
+        <item>est sécrétée par les cellules interstitielies</item>
+        <item>agit uniquement sur la spermatogenèse</item>
+        <item>n\'a pas d\'action sur l\'hypophyse</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="homme11">
+        <item>Les spermatozoïdes :</item>
+        <item>sont des cellules haploïdes à n chromosomes dédoublés (à 2 chromatides)</item>
+        <item>sont des cellules mobiles</item>
+        <item>participent pour moitié à l\'information génétique du futur être vivant</item>
+        <item>sont produits de façon discontinue, à partir de la puberté</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="homme12">
+        <item>Une baisse de la sécrétion de testostérone en dessous de la valeur normale est corrigée par</item>
+        <item>un rétrocontrôle positif de la testostérone sur l\'hypothalamus</item>
+        <item>une stimulation des cellules de Leydig par LH</item>
+        <item>un rétrocontrôle négatif de la testostérone sur l\'hypothalamus</item>
+        <item>une stimulation des tubes séminifères par FSH</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="homme13">
+        <item>Si les testicules ne migrent pas dans les bourses avant la naissance, il y a stérilité parce que :</item>
+        <item>les rapports sexuels sont impossibles</item>
+        <item>les caractères sexuels masculins n\'apparaissent pas</item>
+        <item>la spermatogenèse est strictement liée à la température</item>
+        <item>le développement des organes génitaux ne se fait pas</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="homme14">
+        <item>Les spermatozoïdes humains :</item>
+        <item>sont responsables de la détermination du sexe du foetus</item>
+        <item>ne deviennent fécondants que dans les voies génitales femelles</item>
+        <item>sont immobiles dans les tubes séminifères</item>
+        <item>terminent leur méiose dans l\'épididyme</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="homme15">
+        <item>Les spermatogonies sont :</item>
+        <item>des cellules diploïdes</item>
+        <item>contiennent 46 chromosomes</item>
+        <item>contiennent 23 chromosomes</item>
+        <item>contiennent 22 autosomes et 1 chromosome sexuel</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="homme16">
+        <item>La destruction sélective des cellules de Leydig chez un rat adulte provoque :</item>
+        <item>la baisse du taux des gonadostimulines</item>
+        <item>l\'absence de la sécrétion de testostérone</item>
+        <item>la baisse du taux de GnRH</item>
+        <item>la régression des caractères sexuels secondaires</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="homme17">
+        <item>La greffe d\'un fragment de testicule sous la peau d\'un mâle castré:</item>
+        <item>corrige la stérilité</item>
+        <item>provoque la baisse de la sécrétion des gonadostimulines</item>
+        <item>provoque l\'élévation de la sécrétion des gonadostimulines</item>
+        <item>provoque les mêmes effets que les injections d\'extraits testiculaires</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="homme18">
+        <item>Chez l\'homme, le rétrocontrôle négatif est exercé :</item>
+        <item>lorsque le taux de testostérone est faible</item>
+        <item>quelque soit le taux de testosterone</item>
+        <item>lorsque la production des spermatozoïdes est élevée</item>
+        <item>lorsque la production des spermatozoïdes est faible</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="homme19">
+        <item>En cas de cryptorchidie :</item>
+        <item>la production des spermatozoïdes est normale</item>
+        <item>l\'individu malade peut être stérile.</item>
+        <item>la pilosité est normale</item>
+        <item>la musculature est peu développée</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="homme20">
+        <item>L\'injection de l\'inhibine à un rat adulte normal :</item>
+        <item>provoque la diminution du taux de GnRH</item>
+        <item>provoque la diminution du taux de LH</item>
+        <item>ralentit l\'activité hypophysaire</item>
+        <item>stimule l\'activité hypothalamique</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="homme21">
+        <item>Les spermatozoïdes humains :</item>
+        <item>contenant tous un chromosome X</item>
+        <item>sont bloqués en métaphase II au cours de leur formation</item>
+        <item>ils ont tous un chromosome Y</item>
+        <item>sont des cellules haploïdes</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="homme22">
+        <item>Les cellules de Leydig :</item>
+        <item>sont des cellules cibles de la testostérone</item>
+        <item>sont les cellules sécrétrices de la LH</item>
+        <item>ne sont pas présentes chez un individu cryptorchide</item>
+        <item>sont responsables de la fertilité</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="homme23">
+        <item>A un singe adulte on injecte l\'hormone LH radioactive, on note la présence de la radioactivité au niveau :</item>
+        <item>des cellules germinales</item>
+        <item>des cellules de Sertoli</item>
+        <item>des cellules interstitielles</item>
+        <item>des cellules du tube séminifère</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="homme24">
+        <item>La destruction sélective des cellules de Sertoli par irradiation aux rayons X entraine :</item>
+        <item>La stérilité de l\'animal</item>
+        <item>L\'augmentation du taux plasmatique de l\'hormone FSH</item>
+        <item>L\'augmentation de la fréquence des puises de GnRH</item>
+        <item>L\'augmentation du taux plasmatique de l\'hormone LH</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="homme25">
+        <item>Le dosage d\'ADN montre que le spermatozoïde contient 3.75 pg d\'ADN donc le spermatocyte II contient :</item>
+        <item>3.75 pg d\'ADN</item>
+        <item>7.5 pg d\'ADN</item>
+        <item>15 pg d\'ADN</item>
+        <item>30 pg d\'ADN</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="homme26">
+        <item>Chez un rat adulte, on enlève l\'hypophyse puis on la greffe à un endroit quelconque sur ce même animal :</item>
+        <item>l\'hypophyse greffée de cette manière continue à sécréter des gonadostimulines</item>
+        <item>l\'hypophyse greffée de cette manière cesse de sécréter des gonadostimulines</item>
+        <item>l\'animal reste stérile</item>
+        <item>la fonction endocrine testiculaire est restaurée chez cet animal</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="homme27">
+        <item>une baisse du taux plasmatique de testostérone au dessous d\'une valeur de référence :</item>
+        <item>accentue le freinage sur le complexe hypothalamo-hypophysaire</item>
+        <item>provoque une diminution de la sécrétion de la LH</item>
+        <item>est suivie d\'une augmentation de la fréquence des puises de GnRH</item>
+        <item>induit une levée de l\'inhibition sur Taxe hypothalamo-hypophysaire</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="homme28">
+        <item>Dans la spermatogenèse, la réduction du nombre de chromosomes des cellules germinales se produit au cours de la phase :</item>
+        <item>de multiplication</item>
+        <item>de différenciation</item>
+        <item>d\'accroissement</item>
+        <item>de maturation</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="homme29">
+        <item>Une neurohormone :</item>
+        <item>est secrétée par une glande endocrine</item>
+        <item>est secrétée par des cellules nerveuses</item>
+        <item>sa sécrétion est indépendantes des facteurs internes</item>
+        <item>sa sécrétion varie en fonction de la température externe</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="homme30">
+        <item>La prostate :</item>
+        <item>intervient dans la formation du sperme</item>
+        <item>intervient dans la formation des spermatozoïdes</item>
+        <item>est une glande endocrine</item>
+        <item>est une glande exocrine</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="homme31">
+        <item>Les cellules interstitielles ou cellules de Leydig :</item>
+        <item>sont stimulées par la LH</item>
+        <item>sont stimulées par la FSH</item>
+        <item>secrètent l\'inhibine</item>
+        <item>secrètent la testostérone</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="homme32">
+        <item>La FSH assure :</item>
+        <item>la maturation des spermatides</item>
+        <item>la différenciation des spermatides</item>
+        <item>le développement des tubes séminifères</item>
+        <item>la sécrétion de l\'inhibine</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="homme33">
+        <item>Chez l\'homme, la sécrétion de LH est conditionnée directement par le taux sanguin :</item>
+        <item>de testostérone</item>
+        <item>de GnRH</item>
+        <item>d\'inhibine</item>
+        <item>de FSH</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="homme34">
+        <item>Une injection d\'une forte dose de LH chez un homme castré entraîne :</item>
+        <item>un rétablissement de la spermatogenèse</item>
+        <item>une restauration provisoire de ses caractères sexuels secondaires régressés</item>
+        <item>une augmentation du taux de testostérone</item>
+        <item>aucun effet</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="humaine">
+        <item>@array/humaine01</item>
+        <item>@array/humaine02</item>
+        <item>@array/humaine03</item>
+        <item>@array/humaine04</item>
+        <item>@array/humaine05</item>
+        <item>@array/humaine06</item>
+        <item>@array/humaine07</item>
+        <item>@array/humaine08</item>
+        <item>@array/humaine09</item>
+        <item>@array/humaine10</item>
+        <item>@array/humaine11</item>
+        <item>@array/humaine12</item>
+        <item>@array/humaine13</item>
+        <item>@array/humaine14</item>
+        <item>@array/humaine15</item>
+        <item>@array/humaine16</item>
+        <item>@array/humaine17</item>
+        <item>@array/humaine18</item>
+    </string-array>
+    <string-array name="humaine01">
+        <item>Dans le cas où l\'allèle de la maladie est autosomal dominant :</item>
+        <item>tous les individus de phénotype sain sont hétérozygotes</item>
+        <item>tous les individus malades sont nécessairement hétérozygotes</item>
+        <item>des parents malades n\'engendrent que des enfants atteints</item>
+        <item>un enfant malade a nécessairement au moins un parent malade</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="humaine02">
+        <item>Les difficultés de la génétique humaine sont :</item>
+        <item>La fécondité est restreinte</item>
+        <item>La durée qui sépare deux générations est courte</item>
+        <item>Les croisements dirigés sont possibles</item>
+        <item>La garniture chromosomique est complexe</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="humaine03">
+        <item>Une fille malade est issue de deux parents sains, dans ce cas, la maladie est :</item>
+        <item>récessive autosomale</item>
+        <item>récessive liée à X</item>
+        <item>dominante autosomale</item>
+        <item>dominante liée à X</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="humaine04">
+        <item>Dans le cas d\'une maladie dominante autosomale :</item>
+        <item>tout garçon malade doit être hétérozygote</item>
+        <item>tout enfant malade est homozygote</item>
+        <item>une fille saine peut porter l\'allèle de la maladie</item>
+        <item>Un enfant malade doit avoir au moins un parent malade</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="humaine05">
+        <item>Si une fille malade est homozygote, dans ce cas :</item>
+        <item>son père doit être malade</item>
+        <item>la maladie est obligatoirement autosomale</item>
+        <item>la maladie peut être dominante</item>
+        <item>la maladie est obligatoirement récessive</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="humaine06">
+        <item>Dans le cas d\'une maladie récessive autosomale :</item>
+        <item>tout individu malade est homozygote</item>
+        <item>l\'individu malade peut être hétérozygote</item>
+        <item>l\'individu sain peut être homozygote</item>
+        <item>tout individu sain est obligatoirement hétérozygote</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="humaine07">
+        <item>Une femme hétérozygote est :</item>
+        <item>malade si l\'allèle de la maladie est récessif</item>
+        <item>saine si l\'allèle de la maladie est dominant</item>
+        <item>malade si l\'allèle de la maladie est dominant</item>
+        <item>saine si l\'allèle de la maladie est récessif</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="humaine08">
+        <item>Une anomalie récessive liée au chromosome sexuel X est transmise :</item>
+        <item>Des parents phénotypiquement sains à tous les garçons</item>
+        <item>D\'une mère phénotypiquement saine à tous ses fils</item>
+        <item>D\'un père phénotypiquement atteint à ses fils</item>
+        <item>D\'une mère atteinte à tous ses garçons</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="humaine09">
+        <item>Dans le cas d\'une anomalie héréditaire, si un couple atteint a donné une fille saine, l\'anomalie est :</item>
+        <item>Récessive autosomale</item>
+        <item>Récessive liée au sexe</item>
+        <item>Dominante autosomale</item>
+        <item>Dominante liée au sexe</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="humaine10">
+        <item>Dans le cas d\'un gène récessif lié à X :</item>
+        <item>Les enfants d\'un couple sain sont toujours sains</item>
+        <item>Les enfants d\'un couple atteint sont toujours atteints</item>
+        <item>Les garçons d\'un couple sain sont toujours sains</item>
+        <item>Les filles d\'un couple sain sont toujours saines</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="humaine11">
+        <item>La trisomie 21 :</item>
+        <item>Est surtout d\'origine paternelle</item>
+        <item>Est due essentiellement à une division équationnelle anormale</item>
+        <item>Est due essentiellement à une division réductionnelle anormale</item>
+        <item>Est surtout d\'origine maternelle</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="humaine12">
+        <item>Dans le cas d\'une maladie héréditaire,une fille saine est issue d\'une mère homozygote malade et d\'un père sain :</item>
+        <item>L\'allèle de la maladie est récessif</item>
+        <item>L\'allèle de la maladie est dominant</item>
+        <item>Le gène qui contrôle cette maladie ne peut pas être lié à Y</item>
+        <item>Le gène qui contrôle cette maladie ne peut pas être lié à X</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="humaine13">
+        <item>Si un individu présente un phénotype différent de celui de ses parents, ceci s\'explique par le fait que :</item>
+        <item>Le gène qui contrôle la maladie est porté par le chromosome X</item>
+        <item>L\'allèle muté est dominant</item>
+        <item>Ses parents sont hétérozygotes</item>
+        <item>Sa mère est hétérozygote</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="humaine14">
+        <item>Une maladie dominante autosomale</item>
+        <item>Ne s\'exprime que chez les sujets portant l\'allèle muté à l\'état homozygote</item>
+        <item>Se manifeste chez le père ou la mère d\'un sujet atteint</item>
+        <item>S\'exprime chez tous les enfants ayant un parent malade</item>
+        <item>S\'exprime chez tous les enfants d\'un couple atteint</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="humaine15">
+        <item>La trisomie 21 est</item>
+        <item>Une maladie génique</item>
+        <item>Une anomalie chromosomique</item>
+        <item>Due à un déroulement anormal de la méiose</item>
+        <item>Due à un déroulement anormal de la grossesse</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="humaine16">
+        <item>Le diagnostic prénatal des anomalies géniques</item>
+        <item>Permet de repérer les mutations chromosomiques</item>
+        <item>Permet de prédire les maladies héréditaires</item>
+        <item>Est assuré par l\'analyse d\'ADN</item>
+        <item>Est assuré par la préparation des caryotypes</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="humaine17">
+        <item>Si le spermatozoïde fécondant comporte deux chromosomes n° 21 et un chromosome sexuel X, l\'enfant obtenu est</item>
+        <item>Un garçon normal</item>
+        <item>Une fille normale</item>
+        <item>Un garçon mongolien</item>
+        <item>Une fille mongolienne</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="humaine18">
+        <item>L\'analyse d\'ADN d\'un père atteint d\'une maladie héréditaire montre qu\'il présente l\'allèle normal et l\'allèle muté. Cette maladie est</item>
+        <item>Récessive autosomale</item>
+        <item>Dominante autosomale</item>
+        <item>Dominante liée à X</item>
+        <item>Récessive liée à X</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="hygiene">
+        <item>@array/hygiene01</item>
+        <item>@array/hygiene02</item>
+        <item>@array/hygiene03</item>
+        <item>@array/hygiene04</item>
+        <item>@array/hygiene05</item>
+        <item>@array/hygiene06</item>
+        <item>@array/hygiene07</item>
+        <item>@array/hygiene08</item>
+        <item>@array/hygiene09</item>
+        <item>@array/hygiene10</item>
+        <item>@array/hygiene11</item>
+        <item>@array/hygiene12</item>
+        <item>@array/hygiene13</item>
+        <item>@array/hygiene14</item>
+    </string-array>
+    <string-array name="hygiene01">
+        <item>La dopamine :</item>
+        <item>est une hormone</item>
+        <item>est une neurohormone</item>
+        <item>est un neurotransmetteur</item>
+        <item>est une enzyme</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="hygiene02">
+        <item>La phase d\'alarme est caractérisée par une augmentation de :</item>
+        <item>la sécrétion du cortisol</item>
+        <item>la sécrétion de la noradrénaline</item>
+        <item>la glycogenèse</item>
+        <item>du taux de la thyroxine</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="hygiene03">
+        <item>L\'adrénaline :</item>
+        <item>est sécrétée par la corticosurrénale</item>
+        <item>est sécrétée par l\'hypophyse</item>
+        <item>agit sur le foie</item>
+        <item>agit sur le cœur</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="hygiene04">
+        <item>Les maladies psychosomatiques :</item>
+        <item>apparaissent suite à l\'affaiblissement du système immunitaire</item>
+        <item>sont dues à l\'accélération du rythme cardiaque</item>
+        <item>sont dues de nombreux comportements dans lesquels les processus émotionnels tiennent une place très importante (plaisir, peur, agressivité, comportementtation du taux de cortisol</item>
+        <item>sont dues à une sécrétion importante de dopamine</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="hygiene05">
+        <item>La phase d\'adaptation est caractérisée par l\'activation :</item>
+        <item>de la néoglucogenèse au niveau du muscle</item>
+        <item>de la glycogenèse au niveau du foie et des muscles</item>
+        <item>du métabolisme énergétique produisant l\'ATP</item>
+        <item>de la glycogénolyse</item>
+        <item>134</item>
+    </string-array>
+    <string-array name="hygiene06">
+        <item>Le système limbique :</item>
+        <item>est un ensemble de cellules sécrétrices d\'hormones</item>
+        <item>est responsable de l\'association de la sensation de plaisir à l\'alimentation</item>
+        <item>est une partie du cerveau</item>
+        <item>est formé de circuits de neurones qui sécrètent la noradrénaline</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="hygiene07">
+        <item>La libération du glucose dans le sang :</item>
+        <item>a lieu essentiellement pendant la phase de résistance</item>
+        <item>diminue pendant la phase d\'alarme</item>
+        <item>permet la production d\'énergie dans les cellules du corps</item>
+        <item>est assurée par le foie</item>
+        <item>134</item>
+    </string-array>
+    <string-array name="hygiene08">
+        <item>Les sujets stressés :</item>
+        <item>peuvent présenter des troubles du rythme cardiaque</item>
+        <item>sont plus exposés aux infections</item>
+        <item>présentent une hypotension artérielle</item>
+        <item>présentent une diminution du rythme respiratoire</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="hygiene09">
+        <item>Les drogues :</item>
+        <item>ont toutes les mêmes effets sur le cerveau</item>
+        <item>peuvent agir au niveau des synapses neuroneuroniques</item>
+        <item>n\'interviennent pas au niveau des synapses</item>
+        <item>n\'ont aucun effet sur le système limbique</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="hygiene10">
+        <item>Au niveau des synapses dopaminergiques :</item>
+        <item>la cocaïne agit en se fixant sur les récepteurs de la membrane postsynaptique</item>
+        <item>les transporteurs de la dopamine peuvent être occupés par la cocaïne</item>
+        <item>la cocaïne provoque la dépolarisation de la membrane postsynaptique</item>
+        <item>la sécrétion de la dopamine agit directement sur le comportement de l\'individu</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="hygiene11">
+        <item>La cocaïne est une drogue qui agit au niveau de certaines synapses neuroneuroniques en :</item>
+        <item>inhibant la libération de la dopamine sur la membrane du neurone présynaptique</item>
+        <item>inhibant la fixation de la dopamine sur la membrane du neurone postsynaptique</item>
+        <item>empêchant la recapture de la dopamine par le neurone présynaptique</item>
+        <item>dormant une sensation de plaisir</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="hygiene12">
+        <item>La cocaïne agit au niveau de la synapse dopaminergique en :</item>
+        <item>favorisant l\'exocytose de la dopamine</item>
+        <item>favorisant la recapture de la dopamine</item>
+        <item>se fixant sur les récepteurs à la dopamine</item>
+        <item>se fixant sur les tansporteur de la dopamine</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="hygiene13">
+        <item>Au cours de la première phase du stress (phase d\'alarme) il y a sécrétion :</item>
+        <item>d\'ACTH</item>
+        <item>de cortisol</item>
+        <item>de thyroxine</item>
+        <item>d\'adrénaline</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="hygiene14">
+        <item>La Toxicomanie est :</item>
+        <item>La tendance à augmenter la dose de drogue pour retrouver le même plaisir</item>
+        <item>Un état d’intoxication par la drogue</item>
+        <item>Un état qui conduit à la tolérance et à la dépendance</item>
+        <item>Un état où on ne peut plus se passer de consommer la drogue</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="hygiene15">
+        <item>:</item>
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </string-array>
+    <string-array name="muscle">
+        <item>@array/muscle01</item>
+        <item>@array/muscle02</item>
+        <item>@array/muscle03</item>
+        <item>@array/muscle04</item>
+        <item>@array/muscle05</item>
+        <item>@array/muscle06</item>
+        <item>@array/muscle07</item>
+        <item>@array/muscle08</item>
+        <item>@array/muscle09</item>
+        <item>@array/muscle10</item>
+        <item>@array/muscle11</item>
+        <item>@array/muscle12</item>
+        <item>@array/muscle13</item>
+        <item>@array/muscle14</item>
+        <item>@array/muscle15</item>
+    </string-array>
+    <string-array name="muscle01">
+        <item>Au niveau de la bande H d\'un sarcomère on trouve :</item>
+        <item>des filaments d\'actine et de myosine</item>
+        <item>des filaments de myosine</item>
+        <item>des filaments d\'actine</item>
+        <item>une strie Z</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="muscle02">
+        <item>Les disques sombres des myofibrilles d\'une fibre musculaire :</item>
+        <item>ne contiennent que de la myosine</item>
+        <item>ne contiennent que de l\'actine</item>
+        <item>contiennent de l\'actine et de la myosine</item>
+        <item>sont divisés en deux par une strie Z</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="muscle03">
+        <item>Le raccourcissement des myofibrilles lors de la contraction musculaire :</item>
+        <item>est lié au raccourcissement des filaments d\'actine et de myosine</item>
+        <item>est lié au glissement des filaments d\'actine entre les filaments de myosine</item>
+        <item>se manifeste par un rétrécissement des disques sombres</item>
+        <item>se manifeste par un rétrécissement des disques clairs</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="muscle04">
+        <item>La myokinase est une enzyme qui catalyse :</item>
+        <item>l\'hydrolyse d\'ATP</item>
+        <item>la synthèse d\'ATP à partir d\'ADP</item>
+        <item>la synthèse d\'ATP à partir de l\'acide pyruvique</item>
+        <item>la synthèse d\'ATP à partir de phosphocréatine</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="muscle05">
+        <item>La tête de myosine est chargée :</item>
+        <item>d\'une molécule d\'ATP</item>
+        <item>d\'une molécule d\'ADP</item>
+        <item>d\'une molécule de phosphocréatine</item>
+        <item>d\'une molécule de glucose</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="muscle06">
+        <item>Au cours de l\'activité musculaire, la régénération rapide de l\'ATP se fait par les réactions suivantes :</item>
+        <item>glucose -&gt; acide pyruvique + ATP</item>
+        <item>acide pyruvique + O2 -&gt; CO2 + H2O + ATP</item>
+        <item>phosphocréatine + ADP -&gt; Créatine + ATP</item>
+        <item>acide pyruvique -&gt; acide lactique + ATP</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="muscle07">
+        <item>Le temps de latence de la secousse musculaire se caractérise par la succession suivante :</item>
+        <item>un PA musculaire - une libération de Ca++ - une hydrolyse d\'ATP</item>
+        <item>un PA musculaire - une hydrolyse d\'ATP - une libération de Ca++</item>
+        <item>une hydrolyse d\'ATP - un PA musculaire - une libération de Ca++</item>
+        <item>une libération de Ca++ - un PA musculaire - une hydrolyse d\'ATP</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="muscle08">
+        <item>Le pivotement de la tête de myosine est du directement :</item>
+        <item>à l\'attachement de la myosine sur l\'actine</item>
+        <item>à la régénération rapide de l\' ATP</item>
+        <item>à l\'hydrolyse de l\'ATP</item>
+        <item>au retour de Ca++ dans le réticulum endoplasmique</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="muscle09">
+        <item>La chaleur retardée est libérée :</item>
+        <item>avant la contraction musculaire</item>
+        <item>pendant la phase de contraction du muscle</item>
+        <item>pendant la phase de relâchement du muscle</item>
+        <item>après la phase de relâchement du muscle</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="muscle10">
+        <item>La production de l\'acide lactique dans la fibre musculaire est le résultat :</item>
+        <item>d\'un repos exagéré de la fibre musculaire</item>
+        <item>d\'une insuffisance d\'oxygene</item>
+        <item>d\'une consommation importante de glucose</item>
+        <item>du blocage de la glycolyse</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="muscle11">
+        <item>L\'énergie nécessaire à la contraction musculaire provient de :</item>
+        <item>l\'hydrolyse de l\' ADP</item>
+        <item>l\'oxydation du glucose</item>
+        <item>l\'hydrolyse de l\'ATP</item>
+        <item>l\'oxydation de l\'ATP</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="muscle12">
+        <item>Placé dans un milieu anaérobie, un muscle reste capable de :</item>
+        <item>régénérer l\'ATP à partir de l\'acide pyruvique</item>
+        <item>régénérer l\'ATP à partir de phosphocréatine</item>
+        <item>libérer de la chaleur retardée</item>
+        <item>libérer de la chaleur initiale</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="muscle13">
+        <item>La chaleur initiale de relâchement :</item>
+        <item>est le résultat de l\'hydrolyse de phosphocréatine</item>
+        <item>est le résultat de l\'hydrolyse d\'ADP</item>
+        <item>fait intervenir une enzyme</item>
+        <item>fait intervenir une hormone</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="muscle14">
+        <item>Ce qui caractérise la chaleur initiale par rapport à la chaleur retardée c\'est qu\'elle est :</item>
+        <item>aérobie</item>
+        <item>anaérobie</item>
+        <item>moins importante</item>
+        <item>plus brève</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="muscle15">
+        <item>Au niveau de la fibre musculaire striée, les ions ca++ :</item>
+        <item>sont libérés du réticulum endoplasmique suite à la naissance d\'un potentiel d\'action musculaire</item>
+        <item>permettent la fixation des têtes de myosine sur l\'actine</item>
+        <item>permettent la fixation de l\' ATP sur les têtes de myosine</item>
+        <item>augmentent l\'activité ATPasique de l\'actine</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="pression">
+        <item>@array/pression01</item>
+        <item>@array/pression02</item>
+        <item>@array/pression03</item>
+        <item>@array/pression04</item>
+        <item>@array/pression05</item>
+        <item>@array/pression06</item>
+        <item>@array/pression07</item>
+        <item>@array/pression08</item>
+        <item>@array/pression09</item>
+        <item>@array/pression10</item>
+        <item>@array/pression11</item>
+        <item>@array/pression12</item>
+        <item>@array/pression13</item>
+        <item>@array/pression14</item>
+        <item>@array/pression15</item>
+        <item>@array/pression16</item>
+        <item>@array/pression17</item>
+    </string-array>
+    <string-array name="pression01">
+        <item>la pression artérielle dépend :</item>
+        <item>des résistances de la paroi des artères</item>
+        <item>de la fréquence cardiaque</item>
+        <item>des variations de calibre des veines</item>
+        <item>du volume d\'éjection systolique</item>
+        <item>124</item>
+    </string-array>
+    <string-array name="pression02">
+        <item>la régulation du presion artérielle :</item>
+        <item>dépend uniquement de mécansmes nerveux</item>
+        <item>dépend uniquement de mécansmes hormonaux</item>
+        <item>dépend de mécansmes neuro-hormonaux</item>
+        <item>peut impliquer l\'hypothalamus</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="pression03">
+        <item>parmi les substances suivantes celles qui ont pour effet la diminution de la pression artérielle sont :</item>
+        <item>la noradrénaline</item>
+        <item>l\'aldostérone</item>
+        <item>l\'ADH</item>
+        <item>l\'acétylcholine</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="pression04">
+        <item>parmi les éléments suivants ceux ayant une influence hypertensive sont :</item>
+        <item>L\'acétylcholine</item>
+        <item>L\'adrénaline</item>
+        <item>L\'aldostérone</item>
+        <item>L\'angiotensine</item>
+        <item>234</item>
+    </string-array>
+    <string-array name="pression05">
+        <item>La régulation de la pression artérielle :</item>
+        <item>la fréquence des PA au niveau des nerfs de Héring diminue en cas de baisse de la pression artérielle dans le sinus caotidien</item>
+        <item>la fréquence des PA au niveau des nerfs orthosympathiques augmente en cas d\'élévation de la pression artérielle dans le sinus caotidien</item>
+        <item>la fréquence des PA au niveau des nerfs orthosympathiques augmente en cas de section des nerfs X</item>
+        <item>l\'augmentation de la fréquence des PA dans les nerfs de Héring fait augmenter l\'inhibition sur le centre vasomoteur</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="pression06">
+        <item>La régulation de la pression artérielle :</item>
+        <item>fait intervenir un mécanisme reflexe</item>
+        <item>fait intervenir les nerfs dépresseurs</item>
+        <item>fait intervenir uniquement le nerf X comme voie centrifuge</item>
+        <item>fait intervenir uniquement la moelle épinière comme centre nerveux</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="pression07">
+        <item>la section des fibres afférentes issues des barorécepteurs aortiques et carotidiens entraîne :</item>
+        <item>une diminution du taux d\'adrénaline sécrétée par la médullosurrénale</item>
+        <item>une augmentation du diamètre des artérioles</item>
+        <item>une augmentation de la fréquence des PA au niveau des nerfs X</item>
+        <item>une augmentation de la fréquence cardiaque</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="pression08">
+        <item>l\'adrénaline provoque :</item>
+        <item>une accélération du rythme cardiaque</item>
+        <item>un ralentissement du rythme cardiaque</item>
+        <item>une vasoconstriction</item>
+        <item>une vasodilatation</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="pression09">
+        <item>l\'aldostérone :</item>
+        <item>augmente en cas d\'hypertension</item>
+        <item>est synthétisée par la corticosurrénale</item>
+        <item>augmente en cas d\'hypotension</item>
+        <item>augmente en cas d\'hémorragie</item>
+        <item>bcd</item>
+    </string-array>
+    <string-array name="pression10">
+        <item>Une élévation de la pression artérielle au niveau du sinus carotidien entraine :</item>
+        <item>une diminution de la fréquence des potentiels d\'action le long des nerfs pneumogastriques (nerfs X)</item>
+        <item>une augmentation de la fréquence des potentiels d\'action le long des nerfs orthosympathiques cardiaques</item>
+        <item>une inhibition du centre vasomoteur par activation d\'un interneurone inhibiteur</item>
+        <item>une stimulation du noyau des nerfs X</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="pression11">
+        <item>La diminution de la pression artérielle au niveau du sinus carotidien est suivie d\'une :</item>
+        <item>diminution du rythme cardiaque</item>
+        <item>inhibition du centre vasomoteur</item>
+        <item>augmentation de la sécrétion d\'adrénaline par la médullosurrénale</item>
+        <item>augmentation de la décharge des potentiels d\'action le long des nerfs pneumogastriques</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pression12">
+        <item>La réabsorption des ions sodium au niveau des reins augmente sous l\'effet :</item>
+        <item>du cortisol</item>
+        <item>de l\'adrénaline</item>
+        <item>de l\'aldostérone</item>
+        <item>de la vasopressine (ADH)</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pression13">
+        <item>La vasoconstriction des artérioles résulte de l\'augmentation de l\'activité des nerfs :</item>
+        <item>de Héring</item>
+        <item>splanchniques</item>
+        <item>parasympathiques</item>
+        <item>sympathiques cardiaques</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pression14">
+        <item>Les récepteurs de l\'angiotensine sont localisés au niveau :</item>
+        <item>du foie</item>
+        <item>des reins</item>
+        <item>des corticosurrénales</item>
+        <item>des vaisseaux sanguins</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="pression15">
+        <item>L\'angiotensine intervenant dans la régulation de la pression artérielle :</item>
+        <item>est une enzyme</item>
+        <item>est une hormone</item>
+        <item>a un effet vasoconstricteur</item>
+        <item>stimule la sécrétion d\'adrénaline par les médullosurrénales</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="pression16">
+        <item>L\'aldostérone est une hormone sécrétée par :</item>
+        <item>le foie</item>
+        <item>l\'hypophyse</item>
+        <item>les corticosurrénales</item>
+        <item>les médullosurrénales</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pression17">
+        <item>Le nerf de Cyon est :</item>
+        <item>Un nerf moteur</item>
+        <item>Un nerf mixte</item>
+        <item>Un nerf sensitif</item>
+        <item>Un nerf dépresseur</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="procreation">
+        <item>@array/procreation01</item>
+        <item>@array/procreation02</item>
+        <item>@array/procreation03</item>
+        <item>@array/procreation04</item>
+        <item>@array/procreation05</item>
+        <item>@array/procreation06</item>
+        <item>@array/procreation07</item>
+        <item>@array/procreation08</item>
+        <item>@array/procreation09</item>
+        <item>@array/procreation10</item>
+        <item>@array/procreation11</item>
+        <item>@array/procreation12</item>
+        <item>@array/procreation13</item>
+        <item>@array/procreation14</item>
+        <item>@array/procreation15</item>
+        <item>@array/procreation16</item>
+        <item>@array/procreation17</item>
+        <item>@array/procreation18</item>
+        <item>@array/procreation19</item>
+        <item>@array/procreation20</item>
+        <item>@array/procreation21</item>
+        <item>@array/procreation22</item>
+        <item>@array/procreation23</item>
+        <item>@array/procreation24</item>
+    </string-array>
+    <string-array name="procreation01">
+        <item>Les enzymes des granules corticaux :</item>
+        <item>favorisent la fixation des spermatozoïdes sur la zone pellucide</item>
+        <item>favorisent la pénétration des spermatozoïdes</item>
+        <item>empêchent la polyspermie</item>
+        <item>modifient les glycoprotéines (antigènes) situés sur la tête des spermatozoïdes</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="procreation02">
+        <item>La pilule combinée a une action anti-nidatoire car elle :</item>
+        <item>stimule les sécrétions des gonadostimulines</item>
+        <item>bloque le cycle ovarien</item>
+        <item>modifie les caractéristiques de la muqueuse utérine</item>
+        <item>contient des hormones de synthèse</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="procreation03">
+        <item>Les taux de LH et des hormones ovariennes sont très faible chez une femme :</item>
+        <item>sous pilule contraceptive</item>
+        <item>enceinte</item>
+        <item>ovariectomisée</item>
+        <item>ménopausée</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="procreation04">
+        <item>La réaction corticale et la réaction acrosomique ont en commun :</item>
+        <item>l\'action sur la corona radiata</item>
+        <item>l\'action sur le matériel nucléaire</item>
+        <item>l\'intervention des enzymes</item>
+        <item>l\'action sur la zone pellucide</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="procreation05">
+        <item>Au cours de la fécondation :</item>
+        <item>il y a mélange des chromosomes d\'origine paternelle et d\'origine maternelle</item>
+        <item>les informations fournies par le spermatozoïde et l\'ovocyte II sont identiques</item>
+        <item>le sexe du nouvel individu est déterminé par le chromosome sexuel apporté par l\'ovocyte II</item>
+        <item>les spermatozoïdes porteurs d\'un chromosome X ont plus de chance de féconder un ovocyte que ceux porteurs du chromosome Y</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="procreation06">
+        <item>On propose la FIVETE à une femme car :</item>
+        <item>Elle ne peut pas ovuler</item>
+        <item>L\'embryon ne peut pas s\'implanter naturellement</item>
+        <item>Elle a une obstruction bilatérale des trompes</item>
+        <item>Son conjoint souffre d\'une oligospermie</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="procreation07">
+        <item>La pilule combinée :</item>
+        <item>bloque Fovulation</item>
+        <item>provoque la menstruation</item>
+        <item>stimule la croissance folliculaire</item>
+        <item>interrompe la grossesse</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="procreation08">
+        <item>Dans la trompe d\'une femme, on peut observer :</item>
+        <item>un ovocyte I</item>
+        <item>une ovogonie</item>
+        <item>des spermatozoïdes</item>
+        <item>un ovule</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="procreation09">
+        <item>En cas de fécondation, les cycles sexuels s\'arrêtent car :</item>
+        <item>le taux de progestérone diminue</item>
+        <item>le taux de progestérone augmente</item>
+        <item>le corpsjaune disparaît</item>
+        <item>la sécrétion de FSH est inhibée par le fort taux de progestérone</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="procreation10">
+        <item>L\'ordre chronologique des événements qui se déroulent après la rencontre des gamètes est :</item>
+        <item>reconnaissance entre les gamètes, réaction acrosomique, monospermie et réaction corticale</item>
+        <item>reconnaissance entre les gamètes, réaction corticale, réaction acrosomique et monospermie</item>
+        <item>reconnaissance entre les gamètes, réaction acrosomique, réaction corticale et monospermie</item>
+        <item>réaction acrosomique, reconnaissance entre les gamètes, réaction corticale et monospermie</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="procreation11">
+        <item>L\'azoospermie est :</item>
+        <item>l\'absence totale des spermatozoïdes dans le sperme</item>
+        <item>la présence d\'un nombre faible de spermatozoïdes dans le sperme</item>
+        <item>est une technique de PMA</item>
+        <item>peut être rétablie par les techniques de PMA</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="procreation12">
+        <item>Le sperme normal :</item>
+        <item>est de PH acide</item>
+        <item>est de PH alcalin</item>
+        <item>est caractérisé par une tératospermie supérieure à 70%</item>
+        <item>doit contenir un nombre suffisant de spermatozoïdes</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="procreation13">
+        <item>La technique de la fécondation in vitro et de transfert d\'embryon (FIVETE) est pratiquée dans le cas :</item>
+        <item>d\'une malformation utérine qui empêche la nidation</item>
+        <item>d\'une oligospermie</item>
+        <item>où les spermatozoïdes du mari ne sont pas fécondants</item>
+        <item>d\'une obstruction des trompes</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="procreation14">
+        <item>Au cours de l\'ovogenèse chez la femme, la 2eme division de la méiose (division équationnelle) se termine :</item>
+        <item>dans l\'ovaire</item>
+        <item>au cours de la fécondation</item>
+        <item>dans les tiompes</item>
+        <item>au moment de l\'ovulation</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="procreation15">
+        <item>Parmi les effets de la pilule combinée contraceptive, il y a</item>
+        <item>la stimulation de la sécrétion de la GnRH</item>
+        <item>le blocage de l\'ovulation</item>
+        <item>la stimulation de la sécrétion des hormones hypophysaire</item>
+        <item>une prolifération modérée et permanente de l\'endomètre</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="procreation16">
+        <item>La fécondation chez la femme a lieu dans :</item>
+        <item>l\'utérus</item>
+        <item>l\'ovaire</item>
+        <item>le vagin</item>
+        <item>le tiers supérieur de la trompe</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="procreation17">
+        <item>Le pronucléus mâle contient :</item>
+        <item>44 autosomes et un chromosome Y</item>
+        <item>22 autosomes et 2 chromosomes sexuels</item>
+        <item>22 autosomes et un chromosome sexuel</item>
+        <item>23 chromosomes</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="procreation18">
+        <item>L\'expulsion du 2eme globule polaire</item>
+        <item>signifie l\'achèvement de la méiose</item>
+        <item>a lieu avant la fécondation</item>
+        <item>s\'effectue avant l\'ovulation</item>
+        <item>a lieu dans la trompe</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="procreation19">
+        <item>La réaction corticale :</item>
+        <item>est assurée par l\'ovocyte II</item>
+        <item>est assurée par le spermatozoïde</item>
+        <item>s\'exerce sur l\'espace péri-ovocytaire</item>
+        <item>s\'exerce sur la zone pellucide</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="procreation20">
+        <item>L\'absorption des pilules combinées pendant 21 jours d\'un cycle de 28 jours entraîne :</item>
+        <item>la disparition des menstruations</item>
+        <item>la disparition de l\'ovulation</item>
+        <item>une ovulation au 29eme jour du cycle</item>
+        <item>une hémorragie de privation au 29ème jour</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="procreation21">
+        <item>La FIVETE :</item>
+        <item>consiste à déposer artificiellement du sperme dans le vagin</item>
+        <item>consiste à féconder, in vitro, des ovocytes II avec des spermatozoïdes</item>
+        <item>est une technique de PMA</item>
+        <item>est pratiquée pour résoudre n\'importe quel problème de stérilité</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="procreation22">
+        <item>La pilule combinée a une action :</item>
+        <item>stimulatrice sur la croissance folliculaire</item>
+        <item>inhibitrice sur le développement de l\'endomètre</item>
+        <item>stimulatrice sur le complexe hypothalamo-hypophysaire</item>
+        <item>inhibitrice sur le complexe hypothalamo-hypophysaire</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="procreation23">
+        <item>Le rôle du placenta consiste à :</item>
+        <item>sécréter la HCG (hormone gonadotrophique chorionique)</item>
+        <item>sécréter l\'hormone lutéinisante (LH)</item>
+        <item>assurer les échanges nutritifs entre la mère et le fœtus</item>
+        <item>empêcher le passage de tous les anticorps maternels au fœtus</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="procreation24">
+        <item>Le taux de l\'hormone lutéinisante (LH) se maintient à un taux constant et élevé chez une femme :</item>
+        <item>enceinte</item>
+        <item>ménopausée ou ovariectomisée</item>
+        <item>à cycle sexuel normal</item>
+        <item>à cycle sexuel sous pilule combinée</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="reflexe">
+        <item>@array/reflexe01</item>
+        <item>@array/reflexe02</item>
+        <item>@array/reflexe03</item>
+        <item>@array/reflexe04</item>
+        <item>@array/reflexe05</item>
+        <item>@array/reflexe06</item>
+        <item>@array/reflexe07</item>
+        <item>@array/reflexe08</item>
+        <item>@array/reflexe09</item>
+        <item>@array/reflexe10</item>
+        <item>@array/reflexe11</item>
+        <item>@array/reflexe12</item>
+        <item>@array/reflexe13</item>
+        <item>@array/reflexe14</item>
+        <item>@array/reflexe15</item>
+        <item>@array/reflexe16</item>
+        <item>@array/reflexe17</item>
+        <item>@array/reflexe18</item>
+        <item>@array/reflexe19</item>
+        <item>@array/reflexe20</item>
+    </string-array>
+    <string-array name="reflexe01">
+        <item>Le potentiel de repos :</item>
+        <item>correspond à une différence de potentiel électrique</item>
+        <item>est variable au niveau d\'une même cellule</item>
+        <item>est modifié lors d\'une stimulation d\'un neurone</item>
+        <item>est dû à l\'accumulation de charges négatives dans le milieu extracellulaire et de charges positives dans le milieu intracellulaire</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="reflexe02">
+        <item>Le potentiel de repos d\'une fibre nerveuse est dû :</item>
+        <item>aux propriétés de la membrane plasmique de l\'axone</item>
+        <item>à des protéines de la membrane plasmique de l\'axone</item>
+        <item>essentiellement au fonctionnement des canaux de fuite</item>
+        <item>à une plus grande perméabilité au sodium qu\'au potassium</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="reflexe03">
+        <item>Au repos, le neurone présente les propriéts suivantes vis-à-vis du potassium :</item>
+        <item>sa membrane plasmique est imperméable aux ions k+</item>
+        <item>le maintien du gradient de concentration en ions k+ de part et d\'autre de sa membrane consomme de l\'énergie</item>
+        <item>il y a à la fois un transport passif et un transport actif de k+</item>
+        <item>il y a autant d\'ions k+ qui entrent dans les cellules que d\'ions k+ qui en sortent</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="reflexe04">
+        <item>L\'inégale concentration des ions Na+ et K+ de part et d\'autre de la membrane d\'une fibre nerveuse est expliquée par :</item>
+        <item>le flux actif des ions Na+ et k+ selon leur gradient de concentration</item>
+        <item>le flux passif et sélectif des ions Na+ et k+ selon leur gradient de concentration</item>
+        <item>le flux actif des ions Na+ et k+ contre leur gradient de concentration</item>
+        <item>le flux passif des ions Na+ et CI- contre leur gradient de concentration</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="reflexe05">
+        <item>Si on soumet une fibre nerveuse isolée à l\'action d\'une substance qui bloque la synthèse de l\'ATP, on constate ce qui suit :</item>
+        <item>il y à augmentation de la concentration en Na+ du milieu intracellulaire</item>
+        <item>il y a diminution de la concentration en k+ du milieu extracelulaire</item>
+        <item>il y a diminution du flux entrant de Na+ par blocage de la pompe Na+/k+</item>
+        <item>la fibre devient inexcitable</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="reflexe06">
+        <item>Le potentiel d\'action :</item>
+        <item>est la réponse systématique du neurone à toute stimulation</item>
+        <item>est l\'unité du message nerveux</item>
+        <item>est lié à des mouvements ioniques brefs et intenses à travers la membrane excitée</item>
+        <item>est lié à une modification du fonctionnement de la pompe à Na+/k+</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="reflexe07">
+        <item>Le potentiel d\'action :</item>
+        <item>est graduable</item>
+        <item>est sommable</item>
+        <item>se propage dans les deux sens opposés dans une fibre isolée</item>
+        <item>a une amplitude qui varie avec l\'intensité de stimulation</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="reflexe08">
+        <item>La vitesse de propagation de l\'influx nerveux varie selon :</item>
+        <item>le calibre de la fibre</item>
+        <item>la longueur de la fibre</item>
+        <item>la température du corps</item>
+        <item>le nombre de fibres</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="reflexe09">
+        <item>Une fibre nerveuse obéit à la loi du « tout ou rien » signifie que :</item>
+        <item>la fibre est sensible à tous les stimulis</item>
+        <item>Le potentiel d\'action d\'une fibre stimulée a une amplitude invariable</item>
+        <item>La stimulation doit avoir une certaine intensité pour exciter une fibre</item>
+        <item>Rien ne peut arrêter l\'influx nerveux une fois qu\'il est créé</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="reflexe10">
+        <item>On applique un stimulation électrique infraliminaire sur une fibre nerveuse, On enregisire :</item>
+        <item>Aucun tracé</item>
+        <item>Un potentiei d\'action</item>
+        <item>Un potentiel de repos</item>
+        <item>Un potentiel local</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="reflexe11">
+        <item>Le potentiel local :</item>
+        <item>constitue un message nerveux</item>
+        <item>son amplitude dépasse toujours le seuil</item>
+        <item>correspond au seuil de potentiel</item>
+        <item>s\'amortit en s\'éloignant du point d\'excitation</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="reflexe12">
+        <item>Le potentiel d\'action se propage le long d\'une fibre nerveuse non myélimisée :</item>
+        <item>De proche en proche</item>
+        <item>De manière saltatoire</item>
+        <item>à une vitesse d\'autant plus grande que le diamètre de la fibre est plus grand</item>
+        <item>à une vitesse d\'autant plus grande que le diamètre de la fibre est plus petit</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="reflexe13">
+        <item>Le potentiel de repos est maintenu :</item>
+        <item>grâce au fonctionnement des canaux de fuite seulement</item>
+        <item>grâce au fonctionnement des canaux voltages dépendants</item>
+        <item>grâce à la pompe Na+/K+</item>
+        <item>grâce aux canaux chimiodépendants</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="reflexe14">
+        <item>La période réfractaire :</item>
+        <item>est une période qui suit le potentiel d\'action</item>
+        <item>est une période qui précède le potentiel d\'action</item>
+        <item>est une période pendant laquelle la fibre est inexcitable</item>
+        <item>est une période pendant laquelle les canaux voltage-dépendants s\'ouvrent rapidement</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="reflexe15">
+        <item>Le potentiel d\'action d\'une fibre nerveuse :</item>
+        <item>résulte d\'un flux sortant de K+ suivi d\'un flux entrant de Na+</item>
+        <item>se déplace de proche en proche le long d\'une fibre myélinisée</item>
+        <item>est dû à l\'ouverture des canaux voltage-dépendants à Na+ puis des canaux voltage-dépendants à K+</item>
+        <item>a une amplitude constante quelle que soit l\'intensité de stimulation</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="reflexe16">
+        <item>La phase ascendante du potentiel d\'action est due :</item>
+        <item>à l\'activité de la pompe Na+/K+</item>
+        <item>l\'ouverture des canaux voltage dépendants à K+</item>
+        <item>l\'ouverture des canaux voltage dépendants à Na+</item>
+        <item>la diffusion des ions Na+ et K+ à travers les canaux de fuite</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="reflexe17">
+        <item>Au niveau de la membrane de la fibre nerveuse. les canaux voltage dépendants s\'ouvrent lorsque la ddp de la membrane atteint :</item>
+        <item>-70mv</item>
+        <item>-50mv</item>
+        <item>+30mv</item>
+        <item>Omv</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="reflexe18">
+        <item>Les pompes Na+/K+ :</item>
+        <item>Sont responsables du transport des ions Na+ et K+ contre le gradient de concentration</item>
+        <item>ne fonctionnent qu\'en présence d\'un PA</item>
+        <item>ne fonctionnent plus au cours de l\'hyperpolarisation</item>
+        <item>sont toujours fonctionnelles</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="reflexe19">
+        <item>Une stimulation efficace :</item>
+        <item>a une intensité de -50mv</item>
+        <item>donne un potentiel local qui ramène la ddp à -50mv</item>
+        <item>donne un PA d\'amplitude +30mv</item>
+        <item>donne toujours un PA</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="reflexe20">
+        <item>Lorsqu\'on augmente l\'intensité du stimulus :</item>
+        <item>l\'amplitude du PA augmente</item>
+        <item>le nombre de PA augmente</item>
+        <item>la fréquence des PA augmente</item>
+        <item>la fréquence et l\'amplitude du PA augmentent</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="reponse">
+        <item>@array/reponse01</item>
+        <item>@array/reponse02</item>
+        <item>@array/reponse03</item>
+        <item>@array/reponse04</item>
+        <item>@array/reponse05</item>
+        <item>@array/reponse06</item>
+        <item>@array/reponse07</item>
+        <item>@array/reponse08</item>
+        <item>@array/reponse09</item>
+        <item>@array/reponse10</item>
+        <item>@array/reponse11</item>
+        <item>@array/reponse12</item>
+        <item>@array/reponse13</item>
+        <item>@array/reponse14</item>
+    </string-array>
+    <string-array name="reponse01">
+        <item>parmi les organes lymphoides périphériques ou secondaires on peut citer :</item>
+        <item>le thymus</item>
+        <item>la moelle osseuse</item>
+        <item>la rate</item>
+        <item>les ganglions lymphatiques</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="reponse02">
+        <item>les lymphocytes T acquièrent leur immunocompétence au niveau :</item>
+        <item>de la rate</item>
+        <item>les ganglions lymphatiques</item>
+        <item>de la moelle osseuse</item>
+        <item>du thymus</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="reponse03">
+        <item>dans la molécule d\'anticorps, les deux sites de fixation de l\'antigène :</item>
+        <item>se trouvent sur la partie constante des deux chaines lourdes et légères</item>
+        <item>se trouvent sur la partie variable des deux chaines lourdes et légères</item>
+        <item>peuvent reconnaitre et fixer deux antigènes différente</item>
+        <item>sont spécifiques d\'un antigène donné</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="reponse04">
+        <item>la phagocytose :</item>
+        <item>rend possible la présentation des antigènes aux cellules immunocompétentes</item>
+        <item>est une éaction immunitaire spécifique</item>
+        <item>est réalisée par les lymphocytes</item>
+        <item>est réalisée par les macrophages</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="reponse05">
+        <item>les anticorps :</item>
+        <item>sont uniquement des molécules solubles circulantes</item>
+        <item>sont des protéines</item>
+        <item>provoquent la lyse des cellules cibles</item>
+        <item>sont secrétés par les lymphocytes B</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="reponse06">
+        <item>la réponse immunitaire à médiation cellulaire (RIMC) :</item>
+        <item>détruit ses cibles grâce à des molécules solubles, les anticorps</item>
+        <item>détruit ses cibles grâce à lymphocytes T cytotoxiques</item>
+        <item>est responsable du rejet des greffes</item>
+        <item>est responsable de l\'histocompatibilité entre les groupes sanguins</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="reponse07">
+        <item>un anticorps soluble est :</item>
+        <item>formé de quatre chaînes polypeptidiques</item>
+        <item>à l\'origine de la formation d\'un complexe immun</item>
+        <item>synthétisé en réponse à la présence d\'un antigène spécifique</item>
+        <item>capable de se lier à des antigènes différentes</item>
+        <item>123</item>
+    </string-array>
+    <string-array name="reponse08">
+        <item>les lymphocytes T cytotoxiques :</item>
+        <item>existent avant tout pénétration d\'un antigène</item>
+        <item>agissent en phagocytany les cellules infectées</item>
+        <item>diminuent la charge virale en limitant la reproduction du virus</item>
+        <item>sont incapables de sécréter des protéines</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="reponse09">
+        <item>la vaccination :</item>
+        <item>assure une protection contre les aggresseurs</item>
+        <item>fait appel à la propriété de mémoire immunitaire</item>
+        <item>entraîne une réponse immédiate mais non durable</item>
+        <item>est une méthode curative</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="reponse10">
+        <item>la mémoire immunitaire :</item>
+        <item>permet d\'amplifier une réponse immunitaire plusieurs années après un contact avec l\'antigène</item>
+        <item>fait intervenir le système nerveux</item>
+        <item>fait intervenir les lymphocytes T et B</item>
+        <item>n\'est pas spécifique</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="reponse11">
+        <item>la réponse immunitaire spécifique fait intervenir :</item>
+        <item>les lymphocytes T cytotoxiques comme cellules effectrices dans la RIMH</item>
+        <item>les molécules d\'interleukines comme effecteur moléculaire dans la RIMH</item>
+        <item>les lymphocytes Th pour amplifier les réponses immunitaires</item>
+        <item>les macrophages comme cellules présentatrices de l\'antigène</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="reponse12">
+        <item>l\'interleukine IL2 est écrétée par :</item>
+        <item>les macrophages</item>
+        <item>les lymphocytes T auxiliaires (LT helper)</item>
+        <item>les plasmocytes</item>
+        <item>les lymphocytes T4</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="reponse13">
+        <item>le rejet de greffe de peau :</item>
+        <item>est une réponse immunitaire a médiation humorale</item>
+        <item>est une réponse immunitaire a médiation cellulaire</item>
+        <item>se produit lorsque le donneur et le receveur sont histocompatibles</item>
+        <item>se produit lorsque le donneur et le receveur sont de CMH (complexe majeur d\'histocompatibilité) différents</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="reponse14">
+        <item>les interleukines sont des :</item>
+        <item>molécules de reconnaissance de l\'antigène</item>
+        <item>récepteurs spécifiques à la surface des lymphocytes</item>
+        <item>molécules effectrices de la réponse immunitaire spécifique</item>
+        <item>molécules activatrices des lymphocytes spécifiques à l\'antigène</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="reponse15">
+        <item>:</item>
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </string-array>
+    <string-array name="soi">
+        <item>@array/soi01</item>
+        <item>@array/soi02</item>
+        <item>@array/soi03</item>
+        <item>@array/soi04</item>
+        <item>@array/soi05</item>
+        <item>@array/soi06</item>
+        <item>@array/soi07</item>
+        <item>@array/soi08</item>
+        <item>@array/soi09</item>
+        <item>@array/soi10</item>
+        <item>@array/soi11</item>
+        <item>@array/soi12</item>
+        <item>@array/soi13</item>
+        <item>@array/soi14</item>
+        <item>@array/soi15</item>
+    </string-array>
+    <string-array name="soi01">
+        <item>Pour le système ABO, dans dans le cas où les hématies d\'un individu X sont agglutinées par le sérum d\'un individu Y , on peut déduire que :</item>
+        <item>Les deux individus X et Y sont de même groupe sanguin</item>
+        <item>Les deux individus X et Y sont de groupes sanguins différents</item>
+        <item>l\'individu X peut être de groupe sanguin O</item>
+        <item>l\'individu Y peut être de groupe sanguin O</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="soi02">
+        <item>Les groupes sanguins sont déterminées par :</item>
+        <item>des marqueurs membranaires du CMH</item>
+        <item>des marqueurs membranaires autres que ceux du CMH</item>
+        <item>des agglutinogènes des cellules nucléés</item>
+        <item>certains types d\'anticorps</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="soi03">
+        <item>Le rejet de greffe se produit lorsque le receveur de greffonet le donneur sont :</item>
+        <item>histocompatibles</item>
+        <item>de CMH différent</item>
+        <item>de groupe sanguin différent</item>
+        <item>des vrais jumeaux</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="soi04">
+        <item>La transfusion sanguine peut s\'effectuer entre :</item>
+        <item>un donneur de groupe A et un receveur de groupe AB</item>
+        <item>un donneur de groupe A et un receveur de groupe O</item>
+        <item>un donneur de groupe B et un receveur de groupe AB</item>
+        <item>un donneur de groupe O et un receveur de groupe AB</item>
+        <item>134</item>
+    </string-array>
+    <string-array name="soi05">
+        <item>Un individu du groupe sanguin O :</item>
+        <item>ne possède pas d\'agglutinines dans son plasma</item>
+        <item>ne possède pas d\'agglutinogène A dans la membrane de ses hématies</item>
+        <item>peut recevoir une transfusion de sang de groupe AB</item>
+        <item>peut donner une petite quantité de sang à des individus d\'un autre groupe</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="soi06">
+        <item>dans une allogreffe :</item>
+        <item>il se produit un rejet car le donneur et le receveur sont de groupes sanguins différents</item>
+        <item>il se produit un rejet car le donneur et le receveur sont histocopatibles</item>
+        <item>le greffon déclenche une mémoire immuitaire</item>
+        <item>les protéines du CMH sont différentes entre le donneur et le receveur</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="soi07">
+        <item>lors de la transfusion sanguine entre un donneur de groupe A et un receveur de groupe B il y a agglutination des globules rouges chez le receveur :</item>
+        <item>les anticorps B du donneur se sont fixés sur les anticorps anti A du receveur</item>
+        <item>les anticorps A du receveur se sont fixés sur les anticorps anti A du donneur</item>
+        <item>les anticorps A du donneur se sont fixés sur les anticorps anti B du receveur</item>
+        <item>le donneur et le receveur n\'ont pas le même complexe de histocompatibilité CMH</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="soi08">
+        <item>L\'histocompatibilité :</item>
+        <item>correspond à la possibilité de réaliser une greffe entre deux individus</item>
+        <item>est liée aux marquers CMH</item>
+        <item>existe entre vrais jumeaux</item>
+        <item>existe entre espèces différentes</item>
+        <item>123</item>
+    </string-array>
+    <string-array name="soi09">
+        <item>Lesquels sont associées aux marqueurs membranaires du soi :</item>
+        <item>LT4</item>
+        <item>HLA</item>
+        <item>ABO</item>
+        <item>CD8</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="soi10">
+        <item>l\'ajout d\'agglutinine anti-A d\'un sujet X aux hématies d\'un sujet Y amène à une agglutination. le groupe sanguin du sujet Y peut être :</item>
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+        <item>AB</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="soi11">
+        <item>Le rejet du greffe s\'observe dans le cas d\'une :</item>
+        <item>isogreffe</item>
+        <item>allogreffe</item>
+        <item>autogreffe</item>
+        <item>xénogreffe</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="soi12">
+        <item>les marqueurs membranaires HLA sont des :</item>
+        <item>agglutinines</item>
+        <item>glycoprotéines</item>
+        <item>agglutinogènes</item>
+        <item>gammaglobulines</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="soi13">
+        <item>les marqueurs membranaires des globules rouges sont :</item>
+        <item>les agglutinines</item>
+        <item>les agglutinogènes</item>
+        <item>les antigèes HLA I</item>
+        <item>les antigènes HLA II</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="soi14">
+        <item>Le plasma de X agglutine les hématies de Y mais le plasma de Y n\'agglutine pas les hématies de X, on peut conclure : :</item>
+        <item>X et Y sont du même groupe sanguin</item>
+        <item>Le sang X peut être transfusé à Y</item>
+        <item>si Y est AB, X ne peut être que A ou B</item>
+        <item>si X est O, Y est A ou B ou AB</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="soi15">
+        <item>Les hématies d\'un individu de groupe sanguin [O] :</item>
+        <item>Portent L\'agglutinogène O</item>
+        <item>Sont agglutinées par le sang de groupe [AB]</item>
+        <item>Sont agglutinées par le sang de groupe [A]</item>
+        <item>Peuvent être transférées sans risque à des individus de groupe sanguin [B]</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="tissus">
+        <item>@array/tissus01</item>
+        <item>@array/tissus02</item>
+        <item>@array/tissus03</item>
+        <item>@array/tissus04</item>
+        <item>@array/tissus05</item>
+        <item>@array/tissus06</item>
+        <item>@array/tissus07</item>
+    </string-array>
+    <string-array name="tissus01">
+        <item>La substance grise de la moelle épinière :</item>
+        <item>Contient des cellules bipolaires</item>
+        <item>Contient des cellules pyramidales</item>
+        <item>Contient des cellules de Schwann</item>
+        <item>Contient des cellules gliales</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="tissus02">
+        <item>La partie de la racine postérieure située entre le ganglion spinal et le nerf rachidien comporte :</item>
+        <item>Des axones</item>
+        <item>Des dendrites</item>
+        <item>Des axones et des dendrites</item>
+        <item>Des corps cellulaires bipolaires</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="tissus03">
+        <item>La liaison anatomique entre les corps cellulaires situés dans la moelle épinière et les ﬁbres nerveuses situées dans un nerf rachidien est prouvée par :</item>
+        <item>L\'observation microscopique d\'une coupe de moelle épinière</item>
+        <item>La dégénérescence du bout périphérique du nerf sectionné</item>
+        <item>L\'évolution des cellules nerveuses embryonnaires mises en culture</item>
+        <item>L\'observation microscopique d\'un nerf</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="tissus04">
+        <item>Le neurone :</item>
+        <item>Est la seule cellule constituant le tissu nerveux</item>
+        <item>Assure la formation de la myéline</item>
+        <item>Tous les constituants du neurone se trouvent dans la substance grise de la moelle épinière</item>
+        <item>Est constitué d\'un seul corps cellulaire</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="tissus05">
+        <item>Le système nerveux central est constitué des parties suivantes :</item>
+        <item>l\'encéphale, la moelle épinière et les nerfs rachidiens</item>
+        <item>l\'encéphale, la moelle épinière, les nerfs rachidiens et les nerfs crâniens</item>
+        <item>l\'encéphale et la moelle épinière</item>
+        <item>le cerveau, le cervelet, le bulbe rachîdien et la moelle épinière</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="tissus06">
+        <item>La substance blanche de la moelle épinière contient :</item>
+        <item>des cellules bipolaires</item>
+        <item>des cellules pyramidales</item>
+        <item>des neurones unipolaires</item>
+        <item>des cellules gliales</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="tissus07">
+        <item>la zone de la racine dorsale située entre le ganglion spinal et la moelle épinière :</item>
+        <item>comporte des axones</item>
+        <item>comporte des dendrites</item>
+        <item>conduit un message nerveux afférent</item>
+        <item>conduit un message nerveux efférent</item>
+        <item>13</item>
+    </string-array>
+</resources>

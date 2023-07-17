@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".AboutFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:fillViewport="true"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:alpha="0.9"
+                app:cardBackgroundColor="@color/chp_item"
+                android:theme="@style/Theme.MaterialComponents.DayNight"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="2dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:adjustViewBounds="true"
+                    android:cropToPadding="true"
+                    android:layout_gravity="center"
+                    android:src="@drawable/logo" />
+            </com.google.android.material.card.MaterialCardView>
+
+            <com.google.android.material.card.MaterialCardView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="5dp"
+                android:theme="@style/Theme.MaterialComponents.DayNight"
+                app:cardBackgroundColor="@color/chp_item"
+                app:cardElevation="2dp">
+                <TextView
+                    android:text="A propos"
+                    android:textSize="30sp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_width="match_parent"/>
+            </com.google.android.material.card.MaterialCardView>
+            <com.google.android.material.card.MaterialCardView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="50dp"
+                android:checkable="true"
+                android:minHeight="55dp"
+                android:theme="@style/Theme.MaterialComponents.DayNight"
+                app:cardBackgroundColor="@color/quizz_item_selector"
+                app:cardElevation="2dp">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:text="Application SVT Bac pour Android\nDéveloppeur : Hazem Jday"
+                    android:textSize="20dp"
+                    />
+            </com.google.android.material.card.MaterialCardView>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:fillViewport="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center"
+
+
+                    >
+                    <com.google.android.material.card.MaterialCardView
+                        android:id="@+id/rate"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginBottom="5dp"
+                        android:minHeight="55dp"
+                        app:cardBackgroundColor="@color/quizz_item_selector"
+                        android:theme="@style/Theme.MaterialComponents.DayNight"
+                        app:cardCornerRadius="16dp"
+                        app:cardElevation="2dp">
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:text="Evaluer l'application ☺"
+                            android:textSize="20dp"
+                            />
+                    </com.google.android.material.card.MaterialCardView>
+                    <com.google.android.material.card.MaterialCardView
+                        android:id="@+id/fb_page"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginBottom="5dp"
+                        android:minHeight="55dp"
+                        app:cardBackgroundColor="@color/quizz_item_selector"
+                        android:theme="@style/Theme.MaterialComponents.DayNight"
+                        app:cardCornerRadius="16dp"
+                        app:cardElevation="2dp">
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:text="Page Facebook"
+                            android:textSize="20dp"
+                            />
+                    </com.google.android.material.card.MaterialCardView>
+                    <com.google.android.material.card.MaterialCardView
+                        android:id="@+id/fb_prof"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginBottom="5dp"
+                        android:minHeight="55dp"
+                        app:cardBackgroundColor="@color/quizz_item_selector"
+                        android:theme="@style/Theme.MaterialComponents.DayNight"
+                        app:cardCornerRadius="16dp"
+                        app:cardElevation="2dp">
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:text="Profil Facebook"
+                            android:textSize="20dp"
+                            />
+                    </com.google.android.material.card.MaterialCardView>
+                    <com.google.android.material.card.MaterialCardView
+                        android:id="@+id/apps"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginBottom="5dp"
+                        app:cardBackgroundColor="@color/quizz_item_selector"
+                        android:theme="@style/Theme.MaterialComponents.DayNight"
+                        android:minHeight="55dp"
+                        app:cardCornerRadius="16dp"
+                        app:cardElevation="2dp">
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:text="Plus d'applications"
+                            android:textSize="20dp"
+                            />
+                    </com.google.android.material.card.MaterialCardView>
+                </LinearLayout>
+            </ScrollView>
+
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</FrameLayout>
